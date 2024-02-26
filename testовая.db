@@ -1,0 +1,1 @@
+select ASSESSMENT from ASSESSMENT as ass join STUDENTS as std on ID STUDENTs = ID OBJECTS
